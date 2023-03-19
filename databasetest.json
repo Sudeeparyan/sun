@@ -1,0 +1,14 @@
+{
+  "a@a": {
+    "name": "A",
+    "password": "a"
+  },
+  "s@s": {
+    "name": "S",
+    "password": "s"
+  },
+  "l@l": {
+    "name": "L",
+    "password": "l"
+  }
+}
